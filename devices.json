@@ -1,0 +1,13 @@
+{
+  "iPhone 13 Pro": {
+    "specs": ["6.1-inch Super Retina XDR", "A15 Bionic", "Drie camera's"],
+    "mockup": "iphone13pro",
+    "price": "€509,50"
+  },
+  "iPhone 14": {
+    "specs": ["6.1-inch OLED", "A15 Bionic", "Twee camera's"],
+    "mockup": "iphone14",
+    "price": "€499,50"
+  }
+}
+
