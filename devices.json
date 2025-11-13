@@ -227,9 +227,9 @@
     "colorsImage": "iphone15pro_colors",
     "specs": ["6.1‑inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
     "variants": [
-      { "memory": "256 GB", "price": "€‑" },
-      { "memory": "512 GB", "price": "€‑" },
-      { "memory": "1 TB", "price": "€‑" }
+      { "memory": "256 GB", "price": "€5" },
+      { "memory": "512 GB", "price": "€10" },
+      { "memory": "1 TB", "price": "€20" }
     ],
     "mockup": "iphone15pro",
     "price": "€‑"
