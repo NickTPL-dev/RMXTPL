@@ -1,117 +1,292 @@
 {
+  "iPhone SE (1st generation)": {
+    "colorsImage": "iphonese1_colors",
+    "specs": ["4.0‑inch Retina", "A9 chip", "Single 12MP camera"],
+    "variants": [
+      { "memory": "16 GB", "price": "€‑" },
+      { "memory": "32 GB", "price": "€‑" },
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "128 GB", "price": "€‑" }
+    ],
+    "mockup": "iphonese1",
+    "price": "€‑"
+  },
+  "iPhone SE (2nd generation)": {
+    "colorsImage": "iphonese2_colors",
+    "specs": ["4.7‑inch Retina HD", "A13 Bionic", "Single 12MP camera + Portrait mode"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" }
+    ],
+    "mockup": "iphonese2",
+    "price": "€‑"
+  },
+  "iPhone SE (3rd generation)": {
+    "colorsImage": "iphonese3_colors",
+    "specs": ["4.7‑inch Retina HD", "A15 Bionic", "5G support"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" }
+    ],
+    "mockup": "iphonese3",
+    "price": "€‑"
+  },
   "iPhone 11": {
-    "specs": ["6.1‑inch Liquid Retina LCD", "A13 Bionic", "Dual 12MP camera"],
+    "colorsImage": "iphone11_colors",
+    "specs": ["6.1‑inch Liquid Retina LCD", "A13 Bionic", "Dual 12MP camera"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" }
+    ],
     "mockup": "iphone11",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 11 Pro": {
-    "specs": ["5.8‑inch Super Retina XDR OLED", "A13 Bionic", "Triple 12MP camera"],
+    "colorsImage": "iphone11pro_colors",
+    "specs": ["5.8‑inch Super Retina XDR OLED", "A13 Bionic", "Triple 12MP camera"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone11pro",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 11 Pro Max": {
-    "specs": ["6.5‑inch Super Retina XDR OLED", "A13 Bionic", "Triple 12MP camera + telephoto"],
+    "colorsImage": "iphone11promax_colors",
+    "specs": ["6.5‑inch Super Retina XDR OLED", "A13 Bionic", "Triple 12MP camera + telephoto"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone11promax",
-    "price": "€xx9"
-  },
-  "iPhone 12": {
-    "specs": ["6.1‑inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
-    "mockup": "iphone12",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 12 mini": {
-    "specs": ["5.4‑inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
+    "colorsImage": "iphone12mini_colors",
+    "specs": ["5.4‑inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" }
+    ],
     "mockup": "iphone12mini",
-    "price": "€xx9"
+    "price": "€‑"
+  },
+  "iPhone 12": {
+    "colorsImage": "iphone12_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
+    "variants": [
+      { "memory": "64 GB", "price": "€‑" },
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" }
+    ],
+    "mockup": "iphone12",
+    "price": "€‑"
   },
   "iPhone 12 Pro": {
-    "specs": ["6.1‑inch Super Retina XDR OLED", "A14 Bionic", "Triple 12MP camera + LiDAR"],
+    "colorsImage": "iphone12pro_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED", "A14 Bionic", "Triple 12MP camera + LiDAR"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone12pro",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 12 Pro Max": {
-    "specs": ["6.7‑inch Super Retina XDR OLED", "A14 Bionic", "Triple 12MP camera + LiDAR + sensor‑shift OIS"],
+    "colorsImage": "iphone12promax_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED", "A14 Bionic", "Triple 12MP camera + LiDAR + sensor‑shift OIS"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone12promax",
-    "price": "€xx9"
-  },
-  "iPhone 13": {
-    "specs": ["6.1‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera"],
-    "mockup": "iphone13",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 13 mini": {
-    "specs": ["5.4‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera"],
+    "colorsImage": "iphone13mini_colors",
+    "specs": ["5.4‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" }
+    ],
     "mockup": "iphone13mini",
-    "price": "€xx9"
+    "price": "€‑"
+  },
+  "iPhone 13": {
+    "colorsImage": "iphone13_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
+    "mockup": "iphone13",
+    "price": "€‑"
   },
   "iPhone 13 Pro": {
-    "specs": ["6.1‑inch Super Retina XDR OLED (120Hz)", "A15 Bionic", "Triple 12MP camera + telephoto"],
+    "colorsImage": "iphone13pro_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED (120Hz)", "A15 Bionic", "Triple 12MP camera + telephoto"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone13pro",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 13 Pro Max": {
-    "specs": ["6.7‑inch Super Retina XDR OLED (120Hz)", "A15 Bionic", "Triple 12MP camera + telephoto"],
+    "colorsImage": "iphone13promax_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED (120Hz)", "A15 Bionic", "Triple 12MP camera + telephoto"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone13promax",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 14": {
-    "specs": ["6.1‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS"],
+    "colorsImage": "iphone14_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS via satellite"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone14",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 14 Plus": {
-    "specs": ["6.7‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS"],
+    "colorsImage": "iphone14plus_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS via satellite"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone14plus",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 14 Pro": {
-    "specs": ["6.1‑inch Super Retina XDR OLED (ProMotion)", "A16 Bionic", "48MP main camera + Dynamic Island"],
+    "colorsImage": "iphone14pro_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED (ProMotion)", "A16 Bionic", "48MP main camera + Dynamic Island"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone14pro",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 14 Pro Max": {
-    "specs": ["6.7‑inch Super Retina XDR OLED (ProMotion)", "A16 Bionic", "48MP main camera + Dynamic Island"],
+    "colorsImage": "iphone14promax_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED (ProMotion)", "A16 Bionic", "48MP main camera + Dynamic Island"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone14promax",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 15": {
-    "specs": ["6.1‑inch Super Retina XDR OLED", "A16 Bionic", "48MP main camera + USB‑C"],
+    "colorsImage": "iphone15_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED", "A16 Bionic", "48MP main camera + USB‑C"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone15",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 15 Plus": {
-    "specs": ["6.7‑inch Super Retina XDR OLED", "A16 Bionic", "48MP main camera + USB‑C"],
+    "colorsImage": "iphone15plus_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED", "A16 Bionic", "48MP main camera + USB‑C"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone15plus",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 15 Pro": {
-    "specs": ["6.1‑inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
+    "colorsImage": "iphone15pro_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
+    "variants": [
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone15pro",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 15 Pro Max": {
-    "specs": ["6.7‑inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
+    "colorsImage": "iphone15promax_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
+    "variants": [
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone15promax",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 16": {
-    "specs": ["6.1‑inch Super Retina XDR OLED", "A18 Bionic", "48MP main camera + USB‑C + Action Button"],
+    "colorsImage": "iphone16_colors",
+    "specs": ["6.1‑inch Super Retina XDR OLED", "A18 Bionic", "48MP main camera + USB‑C + Action Button"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone16",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 16 Plus": {
-    "specs": ["6.7‑inch Super Retina XDR OLED", "A18 Bionic", "48MP main camera + USB‑C + Action Button"],
+    "colorsImage": "iphone16plus_colors",
+    "specs": ["6.7‑inch Super Retina XDR OLED", "A18 Bionic", "48MP main camera + USB‑C + Action Button"],
+    "variants": [
+      { "memory": "128 GB", "price": "€‑" },
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" }
+    ],
     "mockup": "iphone16plus",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 16 Pro": {
+    "colorsImage": "iphone16pro_colors",
     "specs": ["6.1‑inch Super Retina XDR OLED (120Hz)", "A18 Pro", "48MP main camera + 48MP ultrawide + Action Button"],
+    "variants": [
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone16pro",
-    "price": "€xx9"
+    "price": "€‑"
   },
   "iPhone 16 Pro Max": {
+    "colorsImage": "iphone16promax_colors",
     "specs": ["6.7‑inch Super Retina XDR OLED (120Hz)", "A18 Pro", "48MP main camera + 48MP ultrawide + Action Button"],
+    "variants": [
+      { "memory": "256 GB", "price": "€‑" },
+      { "memory": "512 GB", "price": "€‑" },
+      { "memory": "1 TB", "price": "€‑" }
+    ],
     "mockup": "iphone16promax",
-    "price": "€xx9"
+    "price": "€‑"
   }
 }
