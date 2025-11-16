@@ -106,7 +106,8 @@
     ],
     "mockup": "iphone11promax",
     "price": "€-"
-  }
+  },
+  
   "iPhone 12 mini": {
     "colorsImage": "iphone12mini_colors",
     "specs": ["5.4-inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
@@ -250,7 +251,8 @@
     ],
     "mockup": "iphone13promax",
     "price": "€-"
-  }
+  },
+  
   "iPhone 14": {
     "colorsImage": "iphone14_colors",
     "specs": ["6.1-inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS via satellite"],
