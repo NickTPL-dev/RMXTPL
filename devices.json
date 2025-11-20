@@ -1,473 +1,379 @@
 {
-  "iPhone SE (1st generation)": {
-    "colorsImage": "iphonese1_colors",
-    "specs": ["4.0-inch Retina", "A9 chip", "Single 12MP camera"],
-    "screenType": "4.0-inch Retina LCD",
-    "biometricAuth": "Touch ID",
-    "chipset": "Apple A9",
-    "cameraDetails": "Main 12MP",
-    "iosSupport": "iOS 15",
-    "spotlightImage": "iphse1_spot",
-    "variants": [
-      { "memory": "16 GB", "price": "€-" },
-      { "memory": "32 GB", "price": "€-" },
-      { "memory": "64 GB", "price": "€-" },
-      { "memory": "128 GB", "price": "€-" }
-    ],
-    "mockup": "iphonese1",
-    "price": "€-"
-  },
-
   "iPhone SE (2nd generation)": {
     "colorsImage": "iphonese2_colors",
-    "specs": ["4.7-inch Retina HD", "A13 Bionic", "Single 12MP camera + Portrait mode"],
     "screenType": "4.7-inch Retina HD",
     "biometricAuth": "Touch ID",
     "chipset": "Apple A13 Bionic",
     "cameraDetails": "Main 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iphse2_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" }
-    ],
-    "mockup": "iphonese2",
-    "price": "€-"
+    ]
   },
 
   "iPhone SE (3rd generation)": {
     "colorsImage": "iphonese3_colors",
-    "specs": ["4.7-inch Retina HD", "A15 Bionic", "5G support"],
     "screenType": "4.7-inch Retina HD",
     "biometricAuth": "Touch ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iphse3_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" }
-    ],
-    "mockup": "iphonese3",
-    "price": "€-"
+    ]
   },
 
   "iPhone 11": {
     "colorsImage": "iphone11_colors",
-    "specs": ["6.1-inch Liquid Retina LCD", "A13 Bionic", "Dual 12MP camera"],
     "screenType": "6.1-inch Liquid Retina LCD",
     "biometricAuth": "Face ID",
     "chipset": "Apple A13 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 17",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph11_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" }
-    ],
-    "mockup": "iphone11",
-    "price": "€-"
+    ]
   },
 
   "iPhone 11 Pro": {
     "colorsImage": "iphone11pro_colors",
-    "specs": ["5.8-inch Super Retina XDR OLED", "A13 Bionic", "Triple 12MP camera"],
     "screenType": "5.8-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A13 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 17",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph11pro_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone11pro",
-    "price": "€-"
+    ]
   },
 
   "iPhone 11 Pro Max": {
     "colorsImage": "iphone11promax_colors",
-    "specs": ["6.5-inch Super Retina XDR OLED", "A13 Bionic", "Triple 12MP camera + telephoto"],
     "screenType": "6.5-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A13 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 17",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph11promax_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone11promax",
-    "price": "€-"
+    ]
   },
-  
+
   "iPhone 12 mini": {
     "colorsImage": "iphone12mini_colors",
-    "specs": ["5.4-inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
     "screenType": "5.4-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A14 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph12mini_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" }
-    ],
-    "mockup": "iphone12mini",
-    "price": "€-"
+    ]
   },
 
   "iPhone 12": {
     "colorsImage": "iphone12_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED", "A14 Bionic", "Dual 12MP camera + 5G"],
     "screenType": "6.1-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A14 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph12_spot",
     "variants": [
       { "memory": "64 GB", "price": "€-" },
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" }
-    ],
-    "mockup": "iphone12",
-    "price": "€-"
+    ]
   },
 
   "iPhone 12 Pro": {
     "colorsImage": "iphone12pro_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED", "A14 Bionic", "Triple 12MP camera + LiDAR"],
     "screenType": "6.1-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A14 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph12pro_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone12pro",
-    "price": "€-"
+    ]
   },
 
   "iPhone 12 Pro Max": {
     "colorsImage": "iphone12promax_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED", "A14 Bionic", "Triple 12MP camera + LiDAR + sensor-shift OIS"],
     "screenType": "6.7-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A14 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph12promax_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone12promax",
-    "price": "€-"
+    ]
   },
 
   "iPhone 13 mini": {
     "colorsImage": "iphone13mini_colors",
-    "specs": ["5.4-inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera"],
     "screenType": "5.4-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph13mini_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" }
-    ],
-    "mockup": "iphone13mini",
-    "price": "€-"
+    ]
   },
 
   "iPhone 13": {
     "colorsImage": "iphone13_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera"],
     "screenType": "6.1-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph13_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone13",
-    "price": "€-"
+    ]
   },
 
   "iPhone 13 Pro": {
     "colorsImage": "iphone13pro_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED (120Hz)", "A15 Bionic", "Triple 12MP camera + telephoto"],
     "screenType": "6.1-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph13pro_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone13pro",
-    "price": "€-"
+    ]
   },
 
   "iPhone 13 Pro Max": {
     "colorsImage": "iphone13promax_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED (120Hz)", "A15 Bionic", "Triple 12MP camera + telephoto"],
     "screenType": "6.7-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph13promax_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone13promax",
-    "price": "€-"
+    ]
   },
-  
+
   "iPhone 14": {
     "colorsImage": "iphone14_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS via satellite"],
     "screenType": "6.1-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph14_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone14",
-    "price": "€-"
+    ]
   },
 
   "iPhone 14 Plus": {
     "colorsImage": "iphone14plus_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED", "A15 Bionic", "Dual 12MP camera + Emergency SOS via satellite"],
     "screenType": "6.7-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A15 Bionic",
     "cameraDetails": "Main 12MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph14plus_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone14plus",
-    "price": "€-"
+    ]
   },
 
   "iPhone 14 Pro": {
     "colorsImage": "iphone14pro_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED (ProMotion)", "A16 Bionic", "48MP main camera + Dynamic Island"],
     "screenType": "6.1-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A16 Bionic",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph14pro_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone14pro",
-    "price": "€-"
+    ]
   },
 
   "iPhone 14 Pro Max": {
     "colorsImage": "iphone14promax_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED (ProMotion)", "A16 Bionic", "48MP main camera + Dynamic Island"],
     "screenType": "6.7-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A16 Bionic",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph14promax_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone14promax",
-    "price": "€-"
+    ]
   },
 
   "iPhone 15": {
     "colorsImage": "iphone15_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED", "A16 Bionic", "48MP main camera + USB-C"],
     "screenType": "6.1-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A16 Bionic",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph15_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone15",
-    "price": "€-"
+    ]
   },
 
   "iPhone 15 Plus": {
     "colorsImage": "iphone15plus_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED", "A16 Bionic", "48MP main camera + USB-C"],
     "screenType": "6.7-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A16 Bionic",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph15plus_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone15plus",
-    "price": "€-"
+    ]
   },
 
   "iPhone 15 Pro": {
     "colorsImage": "iphone15pro_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
     "screenType": "6.1-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A17 Pro",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph15pro_spot",
     "variants": [
       { "memory": "256 GB", "price": "€5" },
       { "memory": "512 GB", "price": "€10" },
       { "memory": "1 TB", "price": "€20" }
-    ],
-    "mockup": "iphone15pro",
-    "price": "€-"
+    ]
   },
 
   "iPhone 15 Pro Max": {
     "colorsImage": "iphone15promax_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED (ProMotion)", "A17 Pro", "Titanium frame + Action Button"],
     "screenType": "6.7-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A17 Pro",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph15promax_spot",
     "variants": [
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone15promax",
-    "price": "€-"
+    ]
   },
 
   "iPhone 16": {
     "colorsImage": "iphone16_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED", "A18 Bionic", "48MP main camera + USB-C + Action Button"],
     "screenType": "6.1-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A18 Bionic",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph16_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone16",
-    "price": "€-"
+    ]
   },
 
   "iPhone 16 Plus": {
     "colorsImage": "iphone16plus_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED", "A18 Bionic", "48MP main camera + USB-C + Action Button"],
     "screenType": "6.7-inch Super Retina XDR OLED",
     "biometricAuth": "Face ID",
     "chipset": "Apple A18 Bionic",
     "cameraDetails": "Main 48MP, Ultra-wide 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph16plus_spot",
     "variants": [
       { "memory": "128 GB", "price": "€-" },
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" }
-    ],
-    "mockup": "iphone16plus",
-    "price": "€-"
+    ]
   },
 
   "iPhone 16 Pro": {
     "colorsImage": "iphone16pro_colors",
-    "specs": ["6.1-inch Super Retina XDR OLED (120Hz)", "A18 Pro", "48MP main camera + 48MP ultrawide + Action Button"],
     "screenType": "6.1-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A18 Pro",
     "cameraDetails": "Main 48MP, Ultra-wide 48MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph16pro_spot",
     "variants": [
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone16pro",
-    "price": "€-"
+    ]
   },
 
   "iPhone 16 Pro Max": {
     "colorsImage": "iphone16promax_colors",
-    "specs": ["6.7-inch Super Retina XDR OLED (120Hz)", "A18 Pro", "48MP main camera + 48MP ultrawide + Action Button"],
     "screenType": "6.7-inch Super Retina XDR OLED (120Hz)",
     "biometricAuth": "Face ID",
     "chipset": "Apple A18 Pro",
     "cameraDetails": "Main 48MP, Ultra-wide 48MP, Telephoto 12MP",
-    "iosSupport": "iOS 18",
+    "iosSupport": "iOS 26",
     "spotlightImage": "iph16promax_spot",
     "variants": [
       { "memory": "256 GB", "price": "€-" },
       { "memory": "512 GB", "price": "€-" },
       { "memory": "1 TB", "price": "€-" }
-    ],
-    "mockup": "iphone16promax",
-    "price": "€-"
+    ]
   }
 }
