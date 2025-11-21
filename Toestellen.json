@@ -1,0 +1,258 @@
+{
+  "config": {
+    "currency": "€",
+    "slideDuration": 6.0
+  },
+  "devices": {
+    "iPhoneSE2": {
+      "displayName": "iPhone SE (2020)",
+      "marketingText": "De klassieke favoriet.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1519923834699-ef0b7cde4712?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A13 Bionic", "camera": "12MP Enkel", "screen": "4.7\" Retina", "battery": "Compact" },
+      "variants": [
+        { "storage": "64GB", "price": 169, "badge": "Budget" },
+        { "storage": "128GB", "price": 199, "badge": null }
+      ]
+    },
+    "iPhoneSE3": {
+      "displayName": "iPhone SE (2022)",
+      "marketingText": "Kleine krachtpatser met 5G.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1616353071588-2345180e26ed?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 Bionic", "camera": "Smart HDR 4", "screen": "4.7\" Retina", "battery": "5G Ready" },
+      "variants": [
+        { "storage": "64GB", "price": 289, "badge": null },
+        { "storage": "128GB", "price": 339, "badge": "Beste Koop" }
+      ]
+    },
+    "iPhone11": {
+      "displayName": "iPhone 11",
+      "marketingText": "Kleurrijk en krachtig.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1574769691583-0f252544279d?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A13 Bionic", "camera": "Dual 12MP", "screen": "6.1\" LCD", "battery": "All-day" },
+      "variants": [
+        { "storage": "64GB", "price": 249, "badge": "Startprijs" },
+        { "storage": "128GB", "price": 299, "badge": null }
+      ]
+    },
+    "iPhone11_Pro": {
+      "displayName": "iPhone 11 Pro",
+      "marketingText": "De eerste Pro.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A13 Bionic", "camera": "Triple Cam", "screen": "5.8\" OLED", "battery": "Matglas" },
+      "variants": [
+        { "storage": "64GB", "price": 329, "badge": null },
+        { "storage": "256GB", "price": 389, "badge": "Top Deal" }
+      ]
+    },
+    "iPhone11_ProMax": {
+      "displayName": "iPhone 11 Pro Max",
+      "marketingText": "Groots in alles.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A13 Bionic", "camera": "Triple Cam", "screen": "6.5\" OLED", "battery": "Max Power" },
+      "variants": [
+        { "storage": "64GB", "price": 379, "badge": null },
+        { "storage": "256GB", "price": 449, "badge": null }
+      ]
+    },
+    "iPhone12_Mini": {
+      "displayName": "iPhone 12 Mini",
+      "marketingText": "Klein maar dapper.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1605236453806-6779d070014a?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A14 Bionic", "camera": "Dual Cam", "screen": "5.4\" OLED", "battery": "Compact" },
+      "variants": [
+        { "storage": "64GB", "price": 289, "badge": "Compact" },
+        { "storage": "128GB", "price": 339, "badge": null }
+      ]
+    },
+    "iPhone12": {
+      "displayName": "iPhone 12",
+      "marketingText": "Snelheid voorbij.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1605236453806-6779d070014a?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A14 Bionic", "camera": "Dual Cam", "screen": "6.1\" OLED", "battery": "MagSafe" },
+      "variants": [
+        { "storage": "64GB", "price": 329, "badge": null },
+        { "storage": "128GB", "price": 379, "badge": "Populairste" }
+      ]
+    },
+    "iPhone12_Pro": {
+      "displayName": "iPhone 12 Pro",
+      "marketingText": "Een sprong vooruit.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1605236453806-6779d070014a?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A14 Bionic", "camera": "Pro + LiDAR", "screen": "6.1\" OLED", "battery": "Premium" },
+      "variants": [
+        { "storage": "128GB", "price": 429, "badge": null },
+        { "storage": "256GB", "price": 489, "badge": null }
+      ]
+    },
+    "iPhone12_ProMax": {
+      "displayName": "iPhone 12 Pro Max",
+      "marketingText": "Camera's tot het uiterste.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1605236453806-6779d070014a?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A14 Bionic", "camera": "Pro Max Cam", "screen": "6.7\" OLED", "battery": "Max Duur" },
+      "variants": [
+        { "storage": "128GB", "price": 499, "badge": null },
+        { "storage": "256GB", "price": 569, "badge": "Pro Keuze" }
+      ]
+    },
+    "iPhone13_Mini": {
+      "displayName": "iPhone 13 Mini",
+      "marketingText": "Jouw superkracht in broekzakformaat.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 Bionic", "camera": "Dual Cam", "screen": "5.4\" OLED", "battery": "Verbeterd" },
+      "variants": [
+        { "storage": "128GB", "price": 399, "badge": "Laatste Mini" },
+        { "storage": "256GB", "price": 469, "badge": null }
+      ]
+    },
+    "iPhone13": {
+      "displayName": "iPhone 13",
+      "marketingText": "De standaard voor smartphones.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 Bionic", "camera": "Cinematic", "screen": "6.1\" OLED", "battery": "Top Batterij" },
+      "variants": [
+        { "storage": "128GB", "price": 449, "badge": "Beste Waarde" },
+        { "storage": "256GB", "price": 519, "badge": null }
+      ]
+    },
+    "iPhone13_Pro": {
+      "displayName": "iPhone 13 Pro",
+      "marketingText": "Oh. Zo. Pro.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 Bionic", "camera": "3x Zoom", "screen": "120Hz ProMotion", "battery": "Pro Power" },
+      "variants": [
+        { "storage": "128GB", "price": 589, "badge": null },
+        { "storage": "256GB", "price": 659, "badge": "Hardloper" }
+      ]
+    },
+    "iPhone13_ProMax": {
+      "displayName": "iPhone 13 Pro Max",
+      "marketingText": "De grootste Pro ooit.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 Bionic", "camera": "Pro Max Cam", "screen": "6.7\" 120Hz", "battery": "Batterij Monster" },
+      "variants": [
+        { "storage": "128GB", "price": 669, "badge": null },
+        { "storage": "256GB", "price": 739, "badge": "Ultiem" }
+      ]
+    },
+    "iPhone14": {
+      "displayName": "iPhone 14",
+      "marketingText": "Groots en groots.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 GPU 5", "camera": "Action Mode", "screen": "6.1\" OLED", "battery": "All Day" },
+      "variants": [
+        { "storage": "128GB", "price": 569, "badge": null },
+        { "storage": "256GB", "price": 649, "badge": null }
+      ]
+    },
+    "iPhone14_Plus": {
+      "displayName": "iPhone 14 Plus",
+      "marketingText": "Groot scherm. Licht gewicht.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A15 GPU 5", "camera": "Action Mode", "screen": "6.7\" OLED", "battery": "Lange duur" },
+      "variants": [
+        { "storage": "128GB", "price": 629, "badge": "Nieuw Formaat" },
+        { "storage": "256GB", "price": 699, "badge": null }
+      ]
+    },
+    "iPhone14_Pro": {
+      "displayName": "iPhone 14 Pro",
+      "marketingText": "Dynamic Island. Game changer.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A16 Bionic", "camera": "48MP Hoofd", "screen": "Dynamic Island", "battery": "Always-On" },
+      "variants": [
+        { "storage": "128GB", "price": 749, "badge": "Innovatie" },
+        { "storage": "256GB", "price": 829, "badge": null }
+      ]
+    },
+    "iPhone14_ProMax": {
+      "displayName": "iPhone 14 Pro Max",
+      "marketingText": "Het ultieme iPhone display.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A16 Bionic", "camera": "48MP Pro", "screen": "6.7\" Dynamic", "battery": "Max Power" },
+      "variants": [
+        { "storage": "128GB", "price": 849, "badge": null },
+        { "storage": "256GB", "price": 929, "badge": "Powerhouse" }
+      ]
+    },
+    "iPhone15": {
+      "displayName": "iPhone 15",
+      "marketingText": "Dynamic Island. Nieuwe camera.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A16 Bionic", "camera": "48MP 2x Tele", "screen": "Dynamic Island", "battery": "USB-C" },
+      "variants": [
+        { "storage": "128GB", "price": 749, "badge": "Nieuw" },
+        { "storage": "256GB", "price": 849, "badge": null }
+      ]
+    },
+    "iPhone15_Plus": {
+      "displayName": "iPhone 15 Plus",
+      "marketingText": "Groot. Groots.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A16 Bionic", "camera": "48MP 2x Tele", "screen": "6.7\" Dynamic", "battery": "USB-C" },
+      "variants": [
+        { "storage": "128GB", "price": 849, "badge": null },
+        { "storage": "256GB", "price": 949, "badge": null }
+      ]
+    },
+    "iPhone15_Pro": {
+      "displayName": "iPhone 15 Pro",
+      "marketingText": "Titanium. Zo sterk. Zo licht.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A17 Pro", "camera": "Pro Systeem", "screen": "Titanium", "battery": "Action Button" },
+      "variants": [
+        { "storage": "128GB", "price": 949, "badge": "Premium" },
+        { "storage": "256GB", "price": 1049, "badge": null }
+      ]
+    },
+    "iPhone15_ProMax": {
+      "displayName": "iPhone 15 Pro Max",
+      "marketingText": "De krachtigste zoom ooit.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A17 Pro", "camera": "5x Zoom", "screen": "6.7\" Titanium", "battery": "Max Duur" },
+      "variants": [
+        { "storage": "256GB", "price": 1149, "badge": "Ultiem" },
+        { "storage": "512GB", "price": 1349, "badge": null }
+      ]
+    },
+    "iPhone16": {
+      "displayName": "iPhone 16",
+      "marketingText": "Klaar voor Apple Intelligence.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1726761682678-139932878919?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A18", "camera": "Camera Control", "screen": "Super Retina", "battery": "Macro Foto" },
+      "variants": [
+        { "storage": "128GB", "price": 969, "badge": "Nieuwste" },
+        { "storage": "256GB", "price": 1099, "badge": null }
+      ]
+    },
+    "iPhone16_Plus": {
+      "displayName": "iPhone 16 Plus",
+      "marketingText": "Nog meer scherm om van te houden.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1726761682678-139932878919?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A18", "camera": "Camera Control", "screen": "6.7\" Super Retina", "battery": "Top Batterij" },
+      "variants": [
+        { "storage": "128GB", "price": 1119, "badge": null },
+        { "storage": "256GB", "price": 1249, "badge": null }
+      ]
+    },
+    "iPhone16_Pro": {
+      "displayName": "iPhone 16 Pro",
+      "marketingText": "Grootser dan groots.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1726761682678-139932878919?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A18 Pro", "camera": "48MP Fusion", "screen": "6.3\" 120Hz", "battery": "Audio Mix" },
+      "variants": [
+        { "storage": "128GB", "price": 1229, "badge": "Pro Power" },
+        { "storage": "256GB", "price": 1359, "badge": null }
+      ]
+    },
+    "iPhone16_ProMax": {
+      "displayName": "iPhone 16 Pro Max",
+      "marketingText": "Het grootste iPhone scherm ooit.",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1726761682678-139932878919?q=80&w=1080&auto=format&fit=crop",
+      "specs": { "chip": "A18 Pro", "camera": "48MP Fusion", "screen": "6.9\" 120Hz", "battery": "Beste ooit" },
+      "variants": [
+        { "storage": "256GB", "price": 1479, "badge": "De Top" },
+        { "storage": "512GB", "price": 1729, "badge": null }
+      ]
+    }
+  }
+}
