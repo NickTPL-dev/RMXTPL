@@ -197,7 +197,7 @@
     "iPhone15_Pro": {
       "displayName": "iPhone 15 Pro",
       "marketingText": "Titanium. Zo sterk. Zo licht.",
-      "backgroundImageUrl": "hhttps://iili.io/f3NnUe2.png",
+      "backgroundImageUrl": "https://i.imgur.com/w0TAVYF.jpeg",
       "specs": { "chip": "A17 Pro", "camera": "Pro Systeem", "screen": "Titanium", "battery": "Action Button" },
       "variants": [
         { "storage": "128GB", "price": 949, "badge": "Premium" },
