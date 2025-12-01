@@ -18,8 +18,8 @@
         "featureIcon": "hand.draw"
       },
       "variants": [
-        { "storage": "64GB", "price": 139.50, "badge": "Budget" },
-        { "storage": "128GB", "price": 189.50, "badge": null }
+        { "storage": "64GB", "price": 140, "badge": "Budget" },
+        { "storage": "128GB", "price": 190, "badge": null }
       ]
     },
     "iPhoneSE3": {
@@ -36,8 +36,8 @@
         "featureIcon": "antenna.radiowaves.left.and.right"
       },
       "variants": [
-        { "storage": "64GB", "price": 243.50, "badge": null },
-        { "storage": "128GB", "price": 290.50, "badge": "Beste Koop" }
+        { "storage": "64GB", "price": 244, "badge": null },
+        { "storage": "128GB", "price": 291, "badge": "Beste Koop" }
       ]
     },
     "iPhone11": {
@@ -54,8 +54,8 @@
         "featureIcon": "moon.fill"
       },
       "variants": [
-        { "storage": "64GB", "price": 259.50, "badge": "Startprijs" },
-        { "storage": "128GB", "price": 299.50, "badge": null }
+        { "storage": "64GB", "price": 260, "badge": "Startprijs" },
+        { "storage": "128GB", "price": 300, "badge": null }
       ]
     },
     "iPhone11_Pro": {
@@ -72,8 +72,8 @@
         "featureIcon": "camera.aperture"
       },
       "variants": [
-        { "storage": "64GB", "price": 309.50, "badge": null },
-        { "storage": "256GB", "price": 379.50, "badge": "Top Deal" }
+        { "storage": "64GB", "price": 310, "badge": null },
+        { "storage": "256GB", "price": 380, "badge": "Top Deal" }
       ]
     },
     "iPhone11_ProMax": {
@@ -90,8 +90,8 @@
         "featureIcon": "battery.100.bolt"
       },
       "variants": [
-        { "storage": "64GB", "price": 339.50, "badge": null },
-        { "storage": "256GB", "price": 409.50, "badge": null }
+        { "storage": "64GB", "price": 340, "badge": null },
+        { "storage": "256GB", "price": 410, "badge": null }
       ]
     },
     "iPhone12_Mini": {
@@ -108,8 +108,8 @@
         "featureIcon": "arrow.down.right.and.arrow.up.left"
       },
       "variants": [
-        { "storage": "64GB", "price": 247.50, "badge": "Compact" },
-        { "storage": "128GB", "price": 309.50, "badge": null }
+        { "storage": "64GB", "price": 248, "badge": "Compact" },
+        { "storage": "128GB", "price": 310, "badge": null }
       ]
     },
     "iPhone12": {
@@ -126,8 +126,8 @@
         "featureIcon": "shield.fill"
       },
       "variants": [
-        { "storage": "64GB", "price": 327.50, "badge": null },
-        { "storage": "128GB", "price": 349.50, "badge": "Populairste" }
+        { "storage": "64GB", "price": 328, "badge": null },
+        { "storage": "128GB", "price": 350, "badge": "Populairste" }
       ]
     },
     "iPhone12_Pro": {
@@ -144,8 +144,8 @@
         "featureIcon": "wave.3.right"
       },
       "variants": [
-        { "storage": "128GB", "price": 362.50, "badge": null },
-        { "storage": "256GB", "price": 390.50, "badge": null }
+        { "storage": "128GB", "price": 363, "badge": null },
+        { "storage": "256GB", "price": 391, "badge": null }
       ]
     },
     "iPhone12_ProMax": {
@@ -162,8 +162,8 @@
         "featureIcon": "camera.viewfinder"
       },
       "variants": [
-        { "storage": "128GB", "price": 449.50, "badge": null },
-        { "storage": "256GB", "price": 474.50, "badge": "Pro Keuze" }
+        { "storage": "128GB", "price": 450, "badge": null },
+        { "storage": "256GB", "price": 475, "badge": "Pro Keuze" }
       ]
     },
     "iPhone13_Mini": {
@@ -180,8 +180,8 @@
         "featureIcon": "sparkles"
       },
       "variants": [
-        { "storage": "128GB", "price": 369.50, "badge": "Laatste Mini" },
-        { "storage": "256GB", "price": 399.50, "badge": null }
+        { "storage": "128GB", "price": 370, "badge": "Laatste Mini" },
+        { "storage": "256GB", "price": 400, "badge": null }
       ]
     },
     "iPhone13": {
@@ -198,8 +198,8 @@
         "featureIcon": "camera.filters"
       },
       "variants": [
-        { "storage": "128GB", "price": 392.50, "badge": "Beste Waarde" },
-        { "storage": "256GB", "price": 439.50, "badge": null }
+        { "storage": "128GB", "price": 393, "badge": "Beste Waarde" },
+        { "storage": "256GB", "price": 440, "badge": null }
       ]
     },
     "iPhone13_Pro": {
@@ -216,8 +216,8 @@
         "featureIcon": "arrow.triangle.2.circlepath"
       },
       "variants": [
-        { "storage": "128GB", "price": 509.50, "badge": null },
-        { "storage": "256GB", "price": 579.50, "badge": "Hardloper" }
+        { "storage": "128GB", "price": 510, "badge": null },
+        { "storage": "256GB", "price": 580, "badge": "Hardloper" }
       ]
     },
     "iPhone13_ProMax": {
@@ -234,8 +234,8 @@
         "featureIcon": "battery.100.bolt"
       },
       "variants": [
-        { "storage": "128GB", "price": 579.50, "badge": null },
-        { "storage": "256GB", "price": 619.50, "badge": "Ultiem" }
+        { "storage": "128GB", "price": 580, "badge": null },
+        { "storage": "256GB", "price": 620, "badge": "Ultiem" }
       ]
     },
     "iPhone14": {
@@ -252,8 +252,8 @@
         "featureIcon": "car.fill"
       },
       "variants": [
-        { "storage": "128GB", "price": 499.50, "badge": null },
-        { "storage": "256GB", "price": 555.50, "badge": null }
+        { "storage": "128GB", "price": 500, "badge": null },
+        { "storage": "256GB", "price": 556, "badge": null }
       ]
     },
     "iPhone14_Plus": {
@@ -270,8 +270,8 @@
         "featureIcon": "feather"
       },
       "variants": [
-        { "storage": "128GB", "price": 539.50, "badge": "Nieuw Formaat" },
-        { "storage": "256GB", "price": 599.50, "badge": null }
+        { "storage": "128GB", "price": 540, "badge": "Nieuw Formaat" },
+        { "storage": "256GB", "price": 600, "badge": null }
       ]
     },
     "iPhone14_Pro": {
@@ -288,8 +288,8 @@
         "featureIcon": "sun.max"
       },
       "variants": [
-        { "storage": "128GB", "price": 649.50, "badge": "Innovatie" },
-        { "storage": "256GB", "price": 699.50, "badge": null }
+        { "storage": "128GB", "price": 650, "badge": "Innovatie" },
+        { "storage": "256GB", "price": 700, "badge": null }
       ]
     },
     "iPhone14_ProMax": {
@@ -306,8 +306,8 @@
         "featureIcon": "camera.macro"
       },
       "variants": [
-        { "storage": "128GB", "price": 749.50, "badge": null },
-        { "storage": "256GB", "price": 799.50, "badge": "Powerhouse" }
+        { "storage": "128GB", "price": 750, "badge": null },
+        { "storage": "256GB", "price": 800, "badge": "Powerhouse" }
       ]
     },
     "iPhone15": {
@@ -324,8 +324,8 @@
         "featureIcon": "cable.connector"
       },
       "variants": [
-        { "storage": "128GB", "price": 679.50, "badge": "Nieuw" },
-        { "storage": "256GB", "price": 729.50, "badge": null }
+        { "storage": "128GB", "price": 680, "badge": "Nieuw" },
+        { "storage": "256GB", "price": 730, "badge": null }
       ]
     },
     "iPhone15_Plus": {
@@ -342,8 +342,8 @@
         "featureIcon": "arrow.up.left.and.arrow.down.right"
       },
       "variants": [
-        { "storage": "128GB", "price": 759.50, "badge": null },
-        { "storage": "256GB", "price": 859.50, "badge": null }
+        { "storage": "128GB", "price": 760, "badge": null },
+        { "storage": "256GB", "price": 860, "badge": null }
       ]
     },
     "iPhone15_Pro": {
@@ -360,8 +360,8 @@
         "featureIcon": "cube.box"
       },
       "variants": [
-        { "storage": "128GB", "price": 799.50, "badge": "Premium" },
-        { "storage": "256GB", "price": 939.50, "badge": null }
+        { "storage": "128GB", "price": 800, "badge": "Premium" },
+        { "storage": "256GB", "price": 940, "badge": null }
       ]
     },
     "iPhone15_ProMax": {
@@ -378,8 +378,8 @@
         "featureIcon": "camera.aperture"
       },
       "variants": [
-        { "storage": "256GB", "price": 999.50, "badge": "Ultiem" },
-        { "storage": "512GB", "price": 1159.50, "badge": null }
+        { "storage": "256GB", "price": 1000, "badge": "Ultiem" },
+        { "storage": "512GB", "price": 1160, "badge": null }
       ]
     },
     "iPhone16": {
@@ -396,7 +396,7 @@
         "featureIcon": "brain.head.profile"
       },
       "variants": [
-        { "storage": "128GB", "price": 774.50, "badge": "Nieuwste" },
+        { "storage": "128GB", "price": 775, "badge": "Nieuwste" },
         { "storage": "256GB", "price": 849, "badge": null }
       ]
     },
@@ -432,7 +432,7 @@
         "featureIcon": "camera.shutter.button"
       },
       "variants": [
-        { "storage": "128GB", "price": 999.95, "badge": "Pro Power" },
+        { "storage": "128GB", "price": 1000, "badge": "Pro Power" },
         { "storage": "256GB", "price": 1049, "badge": null }
       ]
     },
