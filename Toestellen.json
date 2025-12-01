@@ -11,8 +11,8 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A13 Bionic",
-        "camera": "12MP Enkel",
-        "screen": "4.7\" Retina",
+        "camera": "12MP Wide",
+        "screen": "4.7\" Retina HD",
         "featureTitle": "Design",
         "featureValue": "Compact",
         "featureIcon": "hand.draw"
@@ -29,8 +29,8 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A15 Bionic",
-        "camera": "Smart HDR 4",
-        "screen": "4.7\" Retina",
+        "camera": "12MP Wide",
+        "screen": "4.7\" Retina HD",
         "featureTitle": "Internet",
         "featureValue": "5G Ready",
         "featureIcon": "antenna.radiowaves.left.and.right"
@@ -47,11 +47,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A13 Bionic",
-        "camera": "Dual 12MP",
-        "screen": "6.1\" LCD",
-        "featureTitle": "Batterij",
-        "featureValue": "All-day",
-        "featureIcon": "battery.100"
+        "camera": "12 MP Wide (hoofdcamera) + 12 MP Ultra Wide",
+        "screen": "6,1\" Liquid Retina HD (LCD), 1792×828 px",
+        "featureTitle": "Foto",
+        "featureValue": "Nachtmodus (verbeterde foto’s bij weinig licht)",
+        "featureIcon": "moon.fill"
       },
       "variants": [
         { "storage": "64GB", "price": 249, "badge": "Startprijs" },
@@ -65,11 +65,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A13 Bionic",
-        "camera": "Triple Cam",
-        "screen": "5.8\" OLED",
-        "featureTitle": "Afwerking",
-        "featureValue": "Matglas",
-        "featureIcon": "sparkles"
+        "camera": "12 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "5,8\" Super Retina XDR (OLED), 2436×1125 px",
+        "featureTitle": "Camera",
+        "featureValue": "Triple-camera systeem met Telephoto + betere optische zoom",
+        "featureIcon": "camera.aperture"
       },
       "variants": [
         { "storage": "64GB", "price": 329, "badge": null },
@@ -83,11 +83,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A13 Bionic",
-        "camera": "Triple Cam",
-        "screen": "6.5\" OLED",
+        "camera": "12 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,5\" Super Retina XDR (OLED), 2688×1242 px",
         "featureTitle": "Power",
-        "featureValue": "Max Accu",
-        "featureIcon": "bolt.fill"
+        "featureValue": "Grootste accu in 11-serie / Pro-camera functies",
+        "featureIcon": "battery.100.bolt"
       },
       "variants": [
         { "storage": "64GB", "price": 379, "badge": null },
@@ -101,10 +101,10 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A14 Bionic",
-        "camera": "Dual Cam",
-        "screen": "5.4\" OLED",
+        "camera": "12 MP Wide + 12 MP Ultra Wide",
+        "screen": "5,4\" Super Retina XDR (OLED), 2340×1080 px",
         "featureTitle": "Formaat",
-        "featureValue": "Compact",
+        "featureValue": "Compacte formfactor met flagship specificaties (5,4\")",
         "featureIcon": "arrow.down.right.and.arrow.up.left"
       },
       "variants": [
@@ -119,11 +119,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A14 Bionic",
-        "camera": "Dual Cam",
-        "screen": "6.1\" OLED",
-        "featureTitle": "Opladen",
-        "featureValue": "MagSafe",
-        "featureIcon": "bolt.ring.closed"
+        "camera": "12 MP Wide + 12 MP Ultra Wide",
+        "screen": "6,1\" Super Retina XDR (OLED), 2532×1170 px",
+        "featureTitle": "Innovatie",
+        "featureValue": "5G-ondersteuning en Ceramic Shield front",
+        "featureIcon": "shield.fill"
       },
       "variants": [
         { "storage": "64GB", "price": 329, "badge": null },
@@ -137,10 +137,10 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A14 Bionic",
-        "camera": "Pro + LiDAR",
-        "screen": "6.1\" OLED",
+        "camera": "12 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto + LiDAR-scanner",
+        "screen": "6,1\" Super Retina XDR (OLED), 2532×1170 px",
         "featureTitle": "Scanner",
-        "featureValue": "LiDAR",
+        "featureValue": "LiDAR voor snellere autofocus bij weinig licht en AR",
         "featureIcon": "wave.3.right"
       },
       "variants": [
@@ -155,11 +155,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A14 Bionic",
-        "camera": "Pro Max Cam",
-        "screen": "6.7\" OLED",
-        "featureTitle": "Zoom",
-        "featureValue": "2.5x Optisch",
-        "featureIcon": "plus.magnifyingglass"
+        "camera": "12 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,7\" Super Retina XDR (OLED), 2778×1284 px",
+        "featureTitle": "Pro",
+        "featureValue": "Verbeterde sensors en optische beeldstabilisatie tov Pro",
+        "featureIcon": "camera.viewfinder"
       },
       "variants": [
         { "storage": "128GB", "price": 499, "badge": null },
@@ -173,11 +173,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A15 Bionic",
-        "camera": "Dual Cam",
-        "screen": "5.4\" OLED",
-        "featureTitle": "Opslag",
-        "featureValue": "128GB Start",
-        "featureIcon": "internaldrive"
+        "camera": "12 MP Wide + 12 MP Ultra Wide",
+        "screen": "5,4\" Super Retina XDR (OLED), 2340×1080 px",
+        "featureTitle": "Nieuw",
+        "featureValue": "Compacte uitvoering met A15 en nieuwe fotografische functies",
+        "featureIcon": "sparkles"
       },
       "variants": [
         { "storage": "128GB", "price": 399, "badge": "Laatste Mini" },
@@ -191,11 +191,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A15 Bionic",
-        "camera": "Cinematic",
-        "screen": "6.1\" OLED",
-        "featureTitle": "Video",
-        "featureValue": "Cinematic",
-        "featureIcon": "film"
+        "camera": "12 MP Wide + 12 MP Ultra Wide",
+        "screen": "6,1\" Super Retina XDR (OLED), 2532×1170 px",
+        "featureTitle": "Stijl",
+        "featureValue": "Photographic Styles en verbeterde nacht prestaties",
+        "featureIcon": "camera.filters"
       },
       "variants": [
         { "storage": "128GB", "price": 449, "badge": "Beste Waarde" },
@@ -208,11 +208,11 @@
       "backgroundImageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=1080&auto=format&fit=crop",
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
-        "chip": "A15 Bionic",
-        "camera": "3x Zoom",
-        "screen": "ProMotion",
+        "chip": "A15 Bionic (Pro variant)",
+        "camera": "12 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,1\" Super Retina XDR (OLED), 2532×1170 px",
         "featureTitle": "Scherm",
-        "featureValue": "120Hz",
+        "featureValue": "ProMotion 120Hz en uitgebreide Pro-fotografie",
         "featureIcon": "arrow.triangle.2.circlepath"
       },
       "variants": [
@@ -226,11 +226,11 @@
       "backgroundImageUrl": "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=1080&auto=format&fit=crop",
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
-        "chip": "A15 Bionic",
-        "camera": "Pro Max Cam",
-        "screen": "6.7\" 120Hz",
-        "featureTitle": "Batterij",
-        "featureValue": "De langste",
+        "chip": "A15 Bionic (Pro variant)",
+        "camera": "12 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,7\" Super Retina XDR (OLED) met ProMotion 120 Hz",
+        "featureTitle": "Ultimate",
+        "featureValue": "Grootste batterij en top-camera-mogelijkheden",
         "featureIcon": "battery.100.bolt"
       },
       "variants": [
@@ -244,11 +244,11 @@
       "backgroundImageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1080&auto=format&fit=crop",
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
-        "chip": "A15 GPU 5",
-        "camera": "Action Mode",
-        "screen": "6.1\" OLED",
+        "chip": "A15 Bionic (geüpdatet)",
+        "camera": "12 MP Wide + 12 MP Ultra Wide",
+        "screen": "6,1\" Super Retina XDR (OLED), 2532×1170 px",
         "featureTitle": "Veiligheid",
-        "featureValue": "Crash Detectie",
+        "featureValue": "Crash Detection en verbeterde fotografie-software",
         "featureIcon": "car.fill"
       },
       "variants": [
@@ -262,11 +262,11 @@
       "backgroundImageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1080&auto=format&fit=crop",
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
-        "chip": "A15 GPU 5",
-        "camera": "Action Mode",
-        "screen": "6.7\" OLED",
+        "chip": "A15 Bionic (geüpdatet)",
+        "camera": "12 MP Wide + 12 MP Ultra Wide",
+        "screen": "6,7\" Super Retina XDR (OLED), 2778×1284 px",
         "featureTitle": "Gewicht",
-        "featureValue": "Ultra Licht",
+        "featureValue": "Grote 6,7\" schermgrootte zonder Pro-prijskaartje",
         "featureIcon": "feather"
       },
       "variants": [
@@ -281,10 +281,10 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A16 Bionic",
-        "camera": "48MP Hoofd",
-        "screen": "Dynamic Island",
+        "camera": "48 MP Wide (hoofdcamera) + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,1\" Super Retina XDR (OLED), Dynamic Island, 2556×1179 px",
         "featureTitle": "Display",
-        "featureValue": "Always-On",
+        "featureValue": "Dynamic Island + Always-On display + 48 MP hoofdcamera",
         "featureIcon": "sun.max"
       },
       "variants": [
@@ -299,11 +299,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A16 Bionic",
-        "camera": "48MP Pro",
-        "screen": "6.7\" Dynamic",
-        "featureTitle": "Power",
-        "featureValue": "Max Batterij",
-        "featureIcon": "battery.100"
+        "camera": "48 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,7\" Super Retina XDR (OLED), Dynamic Island, 2796×1290 px",
+        "featureTitle": "Top",
+        "featureValue": "Dynamic Island, Always-On en top-camera hardware",
+        "featureIcon": "camera.macro"
       },
       "variants": [
         { "storage": "128GB", "price": 849, "badge": null },
@@ -317,10 +317,10 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A16 Bionic",
-        "camera": "48MP 2x Tele",
-        "screen": "Dynamic Island",
+        "camera": "48 MP hoofdcamera + 12 MP Ultra Wide",
+        "screen": "6,1\" Super Retina XDR (OLED) met Dynamic Island",
         "featureTitle": "Connectie",
-        "featureValue": "USB-C",
+        "featureValue": "Dynamic Island op alle 15-modellen; USB-C",
         "featureIcon": "cable.connector"
       },
       "variants": [
@@ -335,11 +335,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A16 Bionic",
-        "camera": "48MP 2x Tele",
-        "screen": "6.7\" Dynamic",
-        "featureTitle": "Batterij",
-        "featureValue": "Superlang",
-        "featureIcon": "battery.100"
+        "camera": "48 MP Wide + 12 MP Ultra Wide",
+        "screen": "6,7\" Super Retina XDR (OLED) met Dynamic Island",
+        "featureTitle": "Formaat",
+        "featureValue": "Groter scherm + Dynamic Island + USB-C",
+        "featureIcon": "arrow.up.left.and.arrow.down.right"
       },
       "variants": [
         { "storage": "128GB", "price": 849, "badge": null },
@@ -353,11 +353,11 @@
       "priceBackgroundImageUrl": "https://i.imgur.com/2WqR3ab.jpeg",
       "specs": {
         "chip": "A17 Pro",
-        "camera": "Pro Systeem",
-        "screen": "Titanium",
-        "featureTitle": "Knop",
-        "featureValue": "Action Button",
-        "featureIcon": "button.programmable"
+        "camera": "48 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,1\" Super Retina XDR (OLED) ProMotion, Always-On",
+        "featureTitle": "Titanium",
+        "featureValue": "Pro-level chip (A17 Pro), lichtere titanium behuizing",
+        "featureIcon": "cube.box"
       },
       "variants": [
         { "storage": "128GB", "price": 949, "badge": "Premium" },
@@ -371,10 +371,10 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A17 Pro",
-        "camera": "5x Zoom",
-        "screen": "6.7\" Titanium",
+        "camera": "48 MP Wide + 12 MP Ultra Wide + Telephoto",
+        "screen": "6,7\" Super Retina XDR (OLED) ProMotion, Always-On",
         "featureTitle": "Zoom",
-        "featureValue": "5x Tetraprism",
+        "featureValue": "Krachtigste camera-opties (uitgebreide optische zoom)",
         "featureIcon": "camera.aperture"
       },
       "variants": [
@@ -389,11 +389,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A18",
-        "camera": "Camera Control",
-        "screen": "Super Retina",
-        "featureTitle": "Bediening",
-        "featureValue": "Camera Button",
-        "featureIcon": "camera.shutter.button"
+        "camera": "48 MP hoofdcamera + 12 MP Ultra Wide",
+        "screen": "6,1\" Super Retina XDR (OLED), 2556×1179 px",
+        "featureTitle": "AI",
+        "featureValue": "Verdere verfijningen voor Apple Intelligence",
+        "featureIcon": "brain.head.profile"
       },
       "variants": [
         { "storage": "128GB", "price": 969, "badge": "Nieuwste" },
@@ -407,11 +407,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A18",
-        "camera": "Camera Control",
-        "screen": "6.7\" Super Retina",
-        "featureTitle": "Batterij",
-        "featureValue": "Top Batterij",
-        "featureIcon": "battery.100"
+        "camera": "48 MP Wide + 12 MP Ultra Wide",
+        "screen": "6,7\" Super Retina XDR (OLED), 2796×1290 px",
+        "featureTitle": "Display",
+        "featureValue": "Groter schermformaat met nieuwste software-activiteiten",
+        "featureIcon": "rectangle.expand.vertical"
       },
       "variants": [
         { "storage": "128GB", "price": 1119, "badge": null },
@@ -425,11 +425,11 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A18 Pro",
-        "camera": "48MP Fusion",
-        "screen": "6.3\" 120Hz",
-        "featureTitle": "Audio",
-        "featureValue": "Audio Mix",
-        "featureIcon": "waveform"
+        "camera": "48 MP Wide + 12 MP Ultra Wide + 12 MP Telephoto",
+        "screen": "6,3\" Super Retina XDR (OLED), 2622×1206 px",
+        "featureTitle": "Fusion",
+        "featureValue": "Pro camera-systeem met 48 MP Fusion sensor",
+        "featureIcon": "camera.shutter.button"
       },
       "variants": [
         { "storage": "128GB", "price": 1229, "badge": "Pro Power" },
@@ -443,10 +443,10 @@
       "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
       "specs": {
         "chip": "A18 Pro",
-        "camera": "48MP Fusion",
-        "screen": "6.9\" 120Hz",
-        "featureTitle": "Scherm",
-        "featureValue": "Grootste Ooit",
+        "camera": "48 MP Wide + 12 MP Ultra Wide + (5x) Telephoto",
+        "screen": "6,9\" Super Retina XDR (OLED), 2868×1320 px",
+        "featureTitle": "Max",
+        "featureValue": "Grootste scherm en meest geavanceerde lensoptica",
         "featureIcon": "arrow.up.left.and.arrow.down.right"
       },
       "variants": [
