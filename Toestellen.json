@@ -43,8 +43,8 @@
     "iPhone11": {
       "displayName": "iPhone 11",
       "marketingText": "Kleurrijk en krachtig.",
-      "backgroundImageUrl": "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=1080&auto=format&fit=crop",
-      "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
+      "backgroundImageUrl": "https://i.imgur.com/bqcUt11.jpeg",
+      "priceBackgroundImageUrl": "https://i.imgur.com/HGR4Yqj.jpeg",
       "specs": {
         "chip": "A13 Bionic",
         "camera": "12 MP Wide (hoofdcamera) + 12 MP Ultra Wide",
@@ -241,8 +241,8 @@
     "iPhone14": {
       "displayName": "iPhone 14",
       "marketingText": "Groots en groots.",
-      "backgroundImageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1080&auto=format&fit=crop",
-      "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
+      "backgroundImageUrl": "https://i.imgur.com/kBFCDhc.jpeg",
+      "priceBackgroundImageUrl": "https://i.imgur.com/0Bh2pGO.jpeg",
       "specs": {
         "chip": "A15 Bionic (geüpdatet)",
         "camera": "12 MP Wide + 12 MP Ultra Wide",
@@ -277,8 +277,8 @@
     "iPhone14_Pro": {
       "displayName": "iPhone 14 Pro",
       "marketingText": "Dynamic Island. Game changer.",
-      "backgroundImageUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1080&auto=format&fit=crop",
-      "priceBackgroundImageUrl": "https://images.unsplash.com/photo-1635352825339-14421364ed3e?q=80&w=1080&auto=format&fit=crop&blend=3e0000&sat=-100&blend-mode=multiply",
+      "backgroundImageUrl": "https://i.imgur.com/hPlVKBB.jpeg",
+      "priceBackgroundImageUrl": "https://i.imgur.com/Rdr9pZ5.jpeg",
       "specs": {
         "chip": "A16 Bionic",
         "camera": "48 MP Wide (hoofdcamera) + 12 MP Ultra Wide + 12 MP Telephoto",
